@@ -1,6 +1,6 @@
 # surfs_up
 ## Overview of the analysis: Explain the purpose of this analysis.
-![june_temp](https://github.com/stephanieruiz1/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
+![june_temp](https://github.com/stephanieruiz1/surfs_up/blob/main/Resources/june_temp.png)
 ![dec_temp](https://github.com/stephanieruiz1/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 
