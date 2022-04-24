@@ -5,7 +5,17 @@ While on vacation in Hawaii last year I discovered a newfound passion for surfin
 ## June Temperatures
 ![june_temp](https://github.com/stephanieruiz1/surfs_up/blob/main/Resources/june_temp.png)
 
+#### The mean in June Temperature is around 75F
+#### The min and max Temperatures are 64F and 85F
+#### The standard deviation is 3.26
+
+
 ## December Temperatures
 ![dec_temp](https://github.com/stephanieruiz1/surfs_up/blob/main/Resources/dec_temp.png)
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+#### The mean in December is around 71F
+#### The min and max Temperatures are 56F and 83F
+#### The standard deviation is 3.75
+## Summary: 
+We can conclude that the months of December and June are very similar in Temperatures.
+Also, We know W, Avy invested in a surf shop early in his career.However, he did not ask for any weather analysis and that early venture was rained out of existence. Because of that, extras queries will be precipitation, wind, rainy and stormy to gather more weather data.
